@@ -1,0 +1,7 @@
+C:\VM\dotnet-hello-world\publish\dotnet-hello-world.exe
+C:\VM\dotnet-hello-world\publish\appsettings.Development.json
+C:\VM\dotnet-hello-world\publish\appsettings.json
+C:\VM\dotnet-hello-world\publish\dotnet-hello-world.dll
+C:\VM\dotnet-hello-world\publish\dotnet-hello-world.deps.json
+C:\VM\dotnet-hello-world\publish\dotnet-hello-world.runtimeconfig.json
+C:\VM\dotnet-hello-world\publish\dotnet-hello-world.pdb
